@@ -22,7 +22,11 @@ Este proyecto es una aplicación Spring Boot dockerizada, compilada y ejecutada 
    En la raíz del proyecto (donde se encuentran el Dockerfile y docker-compose.yml), ejecuta:
 
    ```bash
+   # Para compilar
    docker compose up --build
+   # Para correr
+   docker compose up 
+
 
 ## Probar la aplicación
 
