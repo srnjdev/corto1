@@ -39,3 +39,6 @@ Si ves el contenido en formato JSON, significa que el dato se ha ingresado corre
 
 ## Autor
 Sergio Ramírez - Carnet `RJ23001`
+
+
+> **Nota:** No se puede usar el carácter `#` en el nombre de las ramas (por ejemplo, `corto1-#rj23001`), ya que Git lo interpreta como el inicio de un comentario. Utilicé en su lugar `corto1-RJ23001`.
